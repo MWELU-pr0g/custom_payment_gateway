@@ -5,7 +5,7 @@ This project is a good starter boilerplate wordpress plugin build to show case h
 * **Create a Custom Field to WooCommerce Product**.
 * **Create Custom Post Type for Courses**
 
- For more updated functionality feel free to visit - https://woocommerce.com/document/actions-and-filters/
+ For more updated functionality feel free to visit -  [woocommerce docs](https://woocommerce.com/document/actions-and-filters/) and [wordpress docs](https://developer.wordpress.org/plugins/)
 
 ## How to install this to wordpress
 
@@ -20,4 +20,4 @@ This project is a good starter boilerplate wordpress plugin build to show case h
 3. On the tabs click 'payments'
 4. On the payments list you should see **Dime payments Gateway**
 
-### Want to a detailed explaination - read contribution.md file
+### Want to a detailed explaination - read `development.md` file
